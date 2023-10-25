@@ -1,0 +1,6 @@
+name=open("yokesh.txt","r")
+print(name.read())
+print(name.readable())
+print(name.writable())
+print(name.mode)
+name.close()
